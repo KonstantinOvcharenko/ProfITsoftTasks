@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ua.profitsoft.task_2.StringRecursionTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.039 s - in ua.profitsoft.task_2.StringRecursionTest
